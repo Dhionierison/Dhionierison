@@ -17,6 +17,8 @@ Em aprendizado, Desenvolvimento Back-End.
   <img align="center" alt=".NetCore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt=".Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt=".NetCore" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
+  
 </div>
 <br>
 
