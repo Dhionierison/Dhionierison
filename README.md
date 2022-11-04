@@ -30,8 +30,8 @@ Em aprendizado, Desenvolvimento Back-End.
 
 
 <div>
-  <img width = "405em" height="195em" src="https://github-readme-stats.vercel.app/api?username=dhionierison&show_icons=true&layout=compact&langs_count=7&theme="/>
-  <img width = "340em" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionierison&layout=compact&langs_count=7&theme="/>
+  <img width = "405em" height="195em" src="https://github-readme-stats.vercel.app/api?username=dhionierison&show_icons=true&layout=compact&langs_count=7&theme=white"/>
+  <img width = "340em" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionierison&layout=compact&langs_count=7&theme=white"/>
  
 </div>
 
