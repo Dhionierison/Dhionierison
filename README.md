@@ -22,11 +22,13 @@ Em aprendizado, Desenvolvimento Back-End.
 </div>
 <br>
 
-**Back-end:** C# -.Net
+**Back-end:** C# -.Net - Ruby
 
 **Banco de Dados:** SQLServer
 
 **ORM:** Entity Framework
+
+
 
 
 <div>
