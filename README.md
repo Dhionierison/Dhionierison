@@ -1,41 +1,74 @@
-# Olá, Seja Bem-vindo! 👋 Dhionierison aqui!
+<h1 align="center">👋 Olá, eu sou o Dhionierison</h1>
+<h3 align="center">🚀 Desenvolvedor Back-End em evolução constante</h3>
 
-Conheça mais sobre quem sou!
-
-## 🚀 Desenvolvedor Jr
-Em aprendizado contínuo, com foco em **Desenvolvimento Back-End**.
+<p align="center">
+  Apaixonado por tecnologia, aprendizado contínuo e construção de soluções escaláveis e eficientes.
+</p>
 
 ---
 
-## 🛠️ Hard Skills
+## 🧠 Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt=".NET Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
+- 💻 Focado em **Desenvolvimento Back-End**
+- ⚛️ Estudando e trabalhando com **Next.js, React, TypeScript e Tailwind CSS**
+- 📚 Evoluindo diariamente como engenheiro de software
+- 🛠️ Experiência com APIs, sistemas web e banco de dados
+- 🎯 Objetivo: construir soluções modernas, performáticas e escaláveis
+
+---
+
+## ⚙️ Stack & Tecnologias
+
+<div align="center">
+
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+
 </div>
 
-<br>
-
-### 💻 Tecnologias
-- **Back-end:** C#, .NET, Ruby on Rails  
-- **Banco de Dados:** SQL Server  
-- **ORM:** Entity Framework  
+<p align="center">
+<strong>Back-end:</strong> C#, .NET, Ruby on Rails <br>
+<strong>Front-end:</strong> React, Next.js, TypeScript, Tailwind CSS <br>
+<strong>Banco de Dados:</strong> SQL Server <br>
+<strong>ORM:</strong> Entity Framework
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-<div>
-  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=dhionierison&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionierison&layout=compact&langs_count=7&theme=default&hide_border=true&cache_seconds=86400" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhionierison&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionierison&layout=compact&theme=github_dark&hide_border=true&langs_count=10"/>
+</div>
+
+---
+
+## 🔥 Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhionierison&theme=github-dark&hide_border=true"/>
 </div>
 
 ---
 
 ## 📫 Contato
 
-Se quiser trocar uma ideia ou colaborar em algum projeto:
+<p align="center">
+  <a href="https://github.com/dhionierison">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-- GitHub: [@dhionierison](https://github.com/dhionierison)
+---
+
+## ✨ Frase que me define
+
+> “Evoluir um pouco todos os dias é melhor que ser perfeito uma vez.”
