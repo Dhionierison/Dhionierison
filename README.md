@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Dhionierison</h1>
-<h3 align="center">🚀 Desenvolvedor Back-End em evolução constante</h3>
+<h3 align="center">🚀 Desenvolvedor Full Stack em evolução constante</h3>
 
 <p align="center">
-  Apaixonado por tecnologia, aprendizado contínuo e construção de soluções escaláveis e eficientes.
+  Aprendizado contínuo e construção de soluções escaláveis e eficientes.
 </p>
 
 ---
