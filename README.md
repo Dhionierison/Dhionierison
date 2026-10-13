@@ -5,8 +5,7 @@
 **Desenvolvedor Front-end** · Sistemas web para educação pública, saúde e benefícios
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhionierison-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhionierison-gon%C3%A7alves-da-silva-669303207/)
-![Open to work](https://img.shields.io/badge/Open_to_work-Front--end-2EA44F?style=for-the-badge)
-![Local](https://img.shields.io/badge/Porto_Velho%2FRO-Remoto_%C2%B7_H%C3%ADbrido_%C2%B7_Presencial-30363D?style=for-the-badge)
+![Local](https://img.shields.io/badge/Porto_Velho%2FRO-Brasil-30363D?style=for-the-badge)
 
 </div>
 
@@ -106,7 +105,7 @@ Construo interfaces usadas todos os dias por gestores, professores, alunos e cli
 
 <br/>
 
-**Front-end Developer** (React · Next.js · TypeScript · Tailwind CSS) based in Porto Velho, Brazil — open to remote, hybrid and on-site roles.
+**Front-end Developer** (React · Next.js · TypeScript · Tailwind CSS) based in Porto Velho, Brazil.
 
 I build web systems used daily by public school managers, teachers, students and customers, from layout to production:
 
