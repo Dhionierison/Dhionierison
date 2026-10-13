@@ -84,10 +84,10 @@ Construo interfaces usadas todos os dias por gestores, professores, alunos e cli
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [InsightVendas](https://github.com/Dhionierison/InsightVendas) | Dashboard de vendas com gráficos e indicadores | Next.js · TypeScript · Tailwind · Recharts |
+| [InsightVendas](https://github.com/Dhionierison/InsightVendas) · [demo](https://insight-vendas.vercel.app) | Dashboard de vendas com indicadores, gráficos e vendas recentes | Next.js · TypeScript · Tailwind · Recharts |
 | [Projeto-Help-Desk](https://github.com/Dhionierison/Projeto-Help-Desk) | Sistema de chamados com filtros, autenticação e formulários | Next.js · shadcn/ui · React Hook Form · Zod |
-| [barber-class-v2](https://github.com/Dhionierison/barber-class-v2) | Landing page para barbearia | Next.js · TypeScript · Tailwind |
-| [SIDEBAR](https://github.com/Dhionierison/SIDEBAR) | Sidebar responsiva e animada para painéis | Next.js · Framer Motion · shadcn/ui |
+| [barber-class-v2](https://github.com/Dhionierison/barber-class-v2) | Landing page de evento com palestrantes, depoimentos, inscrição e animações no scroll | Next.js · TypeScript · Tailwind |
+| [SIDEBAR](https://github.com/Dhionierison/SIDEBAR) | Sidebar expansível e recolhível para painéis administrativos | Next.js · TypeScript · shadcn/ui |
 
 ## 📊 GitHub
 
