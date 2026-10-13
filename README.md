@@ -21,7 +21,7 @@ Construo interfaces usadas todos os dias por gestores, professores, alunos e cli
 - 🧪 Testes com Jest, Testing Library e Cypress
 - 🐳 Deploy com Docker e pipelines de CI/CD no GitLab
 - 📈 **+2.900 commits em +20 projetos front-end** desde 2025
-- 📱 Cursando **Pós-graduação em Mobile Engineering — PUC Minas** (2026–2027): React Native, PWA, Flutter, Android e iOS
+- 📚 Cursando **Pós-graduação em Mobile Engineering — PUC Minas** (2026–2027), com foco em desenvolvimento web: aplicações para internet, APIs e Web Services, UX, responsividade e PWA
 - 🎓 Análise e Desenvolvimento de Sistemas — UNINTER
 
 ## 💼 Onde atuo
@@ -112,7 +112,7 @@ I build web systems used daily by public school managers, teachers, students and
 - **Ordex Sistemas** (Jan 2025 – present) — Clic Saúde e Benefícios, IEL-RO courses & events platform, Vitrine (Stripe), OrdexPay
 - **Instituto BRTEC** (Oct 2025 – present) — public education systems for SEDUC-RO (SIE, Teacher & Student portals, Online Enrollment), BRTask, BRTicket, Auditoria and the Brchat NPM widget
 - **Government of Rondônia · SEDUC-RO** (Jun 2025 – Jul 2026) — Pé-de-Meia platform
-- Currently pursuing a **postgraduate specialization in Mobile Engineering at PUC Minas** (2026–2027) — React Native, PWA, Flutter, Android and iOS
+- Currently pursuing a **postgraduate specialization in Mobile Engineering at PUC Minas** (2026–2027), focused on web development: web applications, APIs & Web Services, UX, responsive design and PWA
 
 Stack: React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, TanStack Query, React Hook Form, Zod, Zustand, Jest, Testing Library, Cypress, Docker and GitLab CI/CD.
 
