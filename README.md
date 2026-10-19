@@ -18,7 +18,6 @@ Construo interfaces usadas todos os dias por gestores, professores, alunos e cli
 - ⚛️ **React, Next.js e TypeScript** no dia a dia, com Tailwind CSS, shadcn/ui e Radix UI
 - 🧩 Componentes reutilizáveis, formulários complexos (React Hook Form + Zod), dashboards e permissões por perfil
 - 🔌 Integração com APIs REST (TanStack Query) e tempo real com WebSocket
-- 🧪 Testes com Jest, Testing Library e Cypress
 - 🐳 Deploy com Docker e pipelines de CI/CD no GitLab
 - 📈 **+2.900 commits em +20 projetos front-end** desde 2025
 - 📚 Cursando **Pós-graduação em Mobile Engineering — PUC Minas** (2026–2027), com foco em desenvolvimento web: aplicações para internet, APIs e Web Services, UX, responsividade e PWA
