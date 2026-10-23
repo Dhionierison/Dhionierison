@@ -28,30 +28,25 @@ Construo interfaces usadas todos os dias por gestores, professores, alunos e cli
 | Empresa | Período | Foco |
 |---|---|---|
 | **Ordex Sistemas** | jan/2025 – atual | Produtos web para clientes e produtos próprios |
-| **Instituto BRTEC** | out/2025 – atual | Sistemas do PAI (SEDUC-RO) e produtos do Instituto |
+| **Instituto BRTEC** | out/2025 – atual | Auditoria, BRTicket e BRTask |
 | **Governo de Rondônia · SEDUC-RO** | jun/2025 – jul/2026 | Pé-de-Meia e sistemas da Secretaria de Educação |
 
 ## 🚀 Sistemas que desenvolvi
 
 > Código em repositórios privados das empresas — os sistemas estão em produção.
 
-**🎓 Educação pública (BRTEC · SEDUC-RO)**
-- **SIE, Portal do Professor e Portal do Estudante** — sistemas da rede estadual de ensino, com dashboards, gráficos e mapas (Leaflet)
-- **Matrícula Online** e **Chamada Escolar Pública** ("Fora da Escola Não Pode!") — portais públicos para a população
+**🎓 Educação pública (SEDUC-RO)**
 - **Pé-de-Meia** — gestão e visualização dos dados dos alunos beneficiários, com tabelas com filtros, gráficos e relatórios em PDF
-- **Portal PAI, Acervo e Convênios**
-
 **🏥 Saúde, cursos e produtos (Ordex Sistemas)**
 - **Clic Saúde e Benefícios** — portal e painéis da rede de benefícios, com dashboards personalizáveis (arrastar e soltar)
 - **IEL-RO** ([cursos.fiero.org.br](https://cursos.fiero.org.br/eventos)) — cursos e eventos com loja, checkout, área do inscrito, check-in por QR Code, certificados em PDF e tempo real
 - **Vitrine** — loja online com painel do lojista, PDV e pagamentos via Stripe
 - **OrdexPay** — painel financeiro de faturas e recebíveis (React + Vite)
 
-**🛠️ Gestão e atendimento (BRTEC)**
-- **BRTask** — gestão de demandas com kanban, editor de texto rico, relatórios em PDF e permissões por perfil (CASL)
-- **BRTicket** — central de chamados e atendimento
-- **Auditoria** — dashboards, mapas e exportação de relatórios
-- **Brchat** — widget de chat publicado como pacote NPM (WebSocket, anexos e áudio)
+**🛠️ Auditoria, atendimento e gestão (Instituto BRTEC)**
+- **Auditoria** — auditoria do transporte escolar: contratos, empresas, veículos, rotas e estudantes, cálculo de custos por veículo e por município, dashboards, mapas (Leaflet) e relatórios de achados em PDF
+- **BRTicket** — central de chamados e atendimento com chat em tempo real (WebSocket), anexos, avaliação do atendimento e relatórios por atendente, projeto e região
+- **BRTask** — gestão de demandas e sprints com kanban (arrastar e soltar), editor de texto rico, wiki de manuais, cenários de testes de integração e relatórios em PDF
 
 ## 🛠️ Stack
 
@@ -109,7 +104,7 @@ Construo interfaces usadas todos os dias por gestores, professores, alunos e cli
 I build web systems used daily by public school managers, teachers, students and customers, from layout to production:
 
 - **Ordex Sistemas** (Jan 2025 – present) — Clic Saúde e Benefícios, IEL-RO courses & events platform, Vitrine (Stripe), OrdexPay
-- **Instituto BRTEC** (Oct 2025 – present) — public education systems for SEDUC-RO (SIE, Teacher & Student portals, Online Enrollment), BRTask, BRTicket, Auditoria and the Brchat NPM widget
+- **Instituto BRTEC** (Oct 2025 – present) — Auditoria (school transportation audit platform), BRTicket (help desk with real-time chat) and BRTask (demand and sprint management with kanban)
 - **Government of Rondônia · SEDUC-RO** (Jun 2025 – Jul 2026) — Pé-de-Meia platform
 - Currently pursuing a **postgraduate specialization in Mobile Engineering at PUC Minas** (2026–2027), focused on web development: web applications, APIs & Web Services, UX, responsive design and PWA
 
